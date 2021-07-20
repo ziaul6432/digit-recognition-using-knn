@@ -15,4 +15,16 @@ MNIST Dataset
   
   
   ![0_pVowHZmGmmUElRX6](https://user-images.githubusercontent.com/57566639/126276858-32f25f18-c753-45e7-bd76-d359ac77038c.png)
+  
+  
+  
+  
+  
+  # Implementation of KNN from scratch
+1-Compute the Euclidean distance between the test data point and all the training data .
+2-Sort the calculated distances in ascending order .
+3-Get the k nearest neighbors by taking top k rows from sorted array
+4-Find the majority class of these rows .
+5-Return predicted class.
+6-Finding accuracy score to make sure the prediction is correct or not.
 
