@@ -1,5 +1,4 @@
-# digit-recognition-using-knn
-
+![0_pVowHZmGmmUElRX6](https://user-images.githubusercontent.com/57566639/126276858-32f25f18-c753-45e7-bd76-d359ac77038c.png)
 
 # Recognition of Handwritten Digits using K -nearest Neighbors
 
