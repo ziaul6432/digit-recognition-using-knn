@@ -26,5 +26,5 @@ MNIST Dataset
 3-Get the k nearest neighbors by taking top k rows from sorted array
 4-Find the majority class of these rows .
 5-Return predicted class.
-6-Finding accuracy score to make sure the prediction is correct or not.
+6-Finding accuracy score to make sure the prediction is correct or not. 
 
